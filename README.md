@@ -33,6 +33,7 @@ display minimum </br>
 Input consists of a three real-valued numbers (of type float), each on a new line. </br>
 Output the smallest of the three numbers.
 </li>
+  
 <li><h3>GradeCodeAccordingtoGradeScore:</h3> </br>The following program accepts an integer in the range [0, 100] and outputs the corresponding
 grade. Using the following list below to match the mark with the correct grade.</br>
 <h4>Grade Mark</h4><ul>
