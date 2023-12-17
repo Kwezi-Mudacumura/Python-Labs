@@ -139,7 +139,7 @@ The output is of each line of input, but in the reverse order it was entered.
 be found by arranging all the numbers from smallest to greatest. If there is an odd number
 of numbers, the middle one is picked. Otherwise, if there are an even number of numbers,
 the median is defined to be the average of the two middle values.</p>The following
-program calculates the median of a set of numbers.</br></br>
+program calculates the median of a set of numbers.</br>
   
 Input:</br>
 The first line of input is a single integer N . N lines of input follow, with each line containing a
