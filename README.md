@@ -18,7 +18,7 @@ Input consists of four real-valued numbers a, b, c, d, each on their own line.
 Output the mean, variance and standard deviation of the numbers, each on a new line. 
 </li>
 <li><h3>MinimumBetweenThreeNumbers:</h3> </br> The following program for finding and displaying the minimum of three real-valued numbers entered
-by a user. The following pseudocode was used for this program:</br>
+by a user. The following pseudocode was used for this program:</br> </br>
 input x </br>
 input y </br>
 input z </br>
