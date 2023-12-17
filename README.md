@@ -78,7 +78,7 @@ The result of the game have three possible outcomes:<ul>
 <li>3. Tie      </li>
   </ul>
 </li>
-<li><h3>FindingMinimumBetweenAnyAmountOfNumbers:</h3> </br>The following program accepts many integers as input, and outputs the smallest one.</br>
+<li><h3>FindingMinimumBetweenAnyAmountOfNumbers:</h3> </br>The following program accepts many integers as input, and outputs the smallest one.</br></br>
 Input:</br>
 The input consists of a series of integers, one per line. The assumuption is that there will always
 be at least one number given. The end of the input will be signalled by the number −1. When
