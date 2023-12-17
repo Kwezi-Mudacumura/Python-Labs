@@ -148,4 +148,21 @@ single integer number.
 Output:</br>
 Outputs the median of the numbers provided as input
 </li>
+
+<li>
+<h3>MatchingMarksToNamesUsingDictionary</h3></br>The following program receives list of names and grades,then outputs the names in alphabetical order, with their associated grade.</br>
+Input:</br>
+The first line of input is an integer N. 2N lines follow, each containing a name and a mark on
+their own lines. The assumpution is that the name is a single word, and that the mark is an integer.</br>
+Output:</br>
+The names and associated grades in alphabetical order. Each name is separated
+from its grade by a space, a colon, and a single space
+
+
+
+
+
+
+  
+</li>
 </ul>
