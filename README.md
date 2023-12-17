@@ -114,6 +114,17 @@ letter in the alphabet.
   
 </li>
 
+<li>
+<h3>VowelCount:</h3></br>Vowels are a useful feature of the English language[Citation required]. The following program that counts
+how many vowels there are in a bunch of words.</br> Please note for our purposes, the letter ’y’ is not a vowel.
+(And, for any Welsh people, neither is ’w’.)
+</br>
+The input consists of lines of text, terminated by a line with the value end. Each line
+contains both upper- and lower-case letters, as well as spaces. The program terminates
+when it accepts end as input.
+The output is the number of vowels the given line contained.
+</li>
+
 
   
 </ul>
