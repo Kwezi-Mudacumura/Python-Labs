@@ -133,11 +133,19 @@ order in which it was entered. Input is read in until the string ### is provided
 Input consists of a series of data, one per line. This data is of any datatype. Input is
 terminated by the string ###, which isnt processed.
 The output is of each line of input, but in the reverse order it was entered.
-
-
-
-
-
+</li>
+<li>
+<h3>Median:</h3></br><p>The median is the middle value separating the greater and lesser halves of a data set. It can
+be found by arranging all the numbers from smallest to greatest. If there is an odd number
+of numbers, the middle one is picked. Otherwise, if there are an even number of numbers,
+the median is defined to be the average of the two middle values.</p>The following
+program calculates the median of a set of numbers.</br></br>
   
+Input:</br>
+The first line of input is a single integer N . N lines of input follow, with each line containing a
+single integer number.
+</br>
+Output:</br>
+Outputs the median of the numbers provided as input
 </li>
 </ul>
