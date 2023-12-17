@@ -105,7 +105,7 @@ Output</br>
 Print out the mean of the numbers.
 </li>
 <li>
-  <h3>ShiftingEveryCharacterByOne</h3></br>The following program that accepts a string, shifts each of its characters to the next one in the
+  <h3>ShiftingEveryCharacterByOne</h3></br>The following program accepts a string then shifts each of its characters to the next one in the
 alphabet, and outputs the resulting string.
 The input consists of a single string. The assumption is that the string contains neither the
 character ’Z’ nor ’z’, nor does it contain any spaces.
