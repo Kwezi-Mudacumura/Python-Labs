@@ -103,12 +103,14 @@ calculating the average.
 </br>
 Output</br>
 Print out the mean of the numbers.
-
-
-
-
-
-
+</li>
+<li>
+  <h3>ShiftingEveryCharacterByOne</h3></br>The following program that accepts a string, shifts each of its characters to the next one in the
+alphabet, and outputs the resulting string.
+The input consists of a single string. The assumption is that the string contains neither the
+character ’Z’ nor ’z’, nor does it contain any spaces.
+The output displays the string that results when each character in the given string is shifted to its following
+letter in the alphabet.
   
 </li>
 
