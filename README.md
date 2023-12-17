@@ -23,12 +23,13 @@ input x </br>
 input y </br>
 input z </br>
 if x <= y </br>
- minimum = x </br>
+  minimum = x </br>
 else </br>
- minimum = y </br>
+  minimum = y </br>
 if z < minimum: </br>
- minimum = z </br>
+  minimum = z </br>
 display minimum </br>
+   </br>
 Input consists of a three real-valued numbers (of type float), each on a new line. </br>
 Output the smallest of the three numbers.
 </li>
