@@ -11,7 +11,7 @@ Output x − y.
 </br>To compute the mean, variance, and standard deviation of numbers a, b, c, d entered by a user, use the following three equations:<ul>
 <li> 1. mean =(a + b + c + d)/4</li>
 <li> 2. variance =((mean − a)^2 + (mean − b)^2 + (mean − c)^2 + (mean − d)^2)/4 </li>
-<li> 3. standard deviation =√var </li>
+<li> 3. standard deviation =√variance </li>
 </ul>
 </br>
 Input consists of four real-valued numbers a, b, c, d, each on their own line.
@@ -47,5 +47,19 @@ grade. Using the following list below to match the mark with the correct grade.<
 Input consists of a single integer specifying the mark then
 the program outputs the corresponding grade.
  </li>
+
+ <li><h3>Leap year</h3> </br>A leap year is a calendar year that contains one extra day.The following program that accepts a year
+and outputs whether that year is a leap year or not. </br>The following rules determine leap years:<ul>
+<li>• Years that are exactly divisible by 100 are only leap years if they are also divisible by 400</li>
+<li>• Years that are not divisible by 100 but are divisible by 4 are leap years</li>
+<li>• No other years are leap years</li>
+</ul>
+</br>
+The input consists of a single year (a non-negative integer) y read from the user.
+If the given year y is a leap year,the output [y] is a leap year; otherwise,the output
+[y] is not a leap year
+</br>
+ </li>
+ 
   
 </ul>
