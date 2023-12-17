@@ -125,7 +125,18 @@ contains both upper- and lower-case letters, as well as spaces. The program term
 when it accepts end as input.
 The output is the number of vowels the given line contained.
 </li>
+<li>
+<h3>ReverseInput:</h3></br>The following program reads in lines of data from the user, and then outputs the data in the reverse
+order in which it was entered. Input is read in until the string ### is provided as input.
+</br>
+Input consists of a series of data, one per line. This data is of any datatype. Input is
+terminated by the string ###, which isnt processed.
+The output is of each line of input, but in the reverse order it was entered.
+
+
+
 
 
   
+</li>
 </ul>
