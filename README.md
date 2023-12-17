@@ -78,5 +78,19 @@ The result of the game have three possible outcomes:<ul>
 <li>3. Tie      </li>
   </ul>
 </li>
+<li><h3>FindingMinimumBetweenAnyAmountOfNumbers:</h3> </br>The following program accepts many integers as input, and outputs the smallest one.</br>
+Input:</br>
+The input consists of a series of integers, one per line. The assumuption is that there will always
+be at least one number given. The end of the input will be signalled by the number −1. When
+you receive a −1, your program should then output the smallest number it has seen so far.
+Note that −1 is completely ignored and thus isnt taken into consideration when
+calculating the smallest number.
+</br>
+Output:</br>
+Print out the minimum value of the numbers.                          
+
+</li>
+
+
   
 </ul>
