@@ -58,7 +58,6 @@ and outputs whether that year is a leap year or not. </br>The following rules de
 The input consists of a single year (a non-negative integer) y read from the user.
 If the given year y is a leap year,the output [y] is a leap year; otherwise,the output
 [y] is not a leap year
-</br>
  </li>  
 
  <li><h3>Rock,Paper,Scissors</h3> </br> <p></p>In the popular game Rock-Paper-Scissors (RPS) two players compete against one another by
@@ -72,9 +71,8 @@ and Player 2), and outputs the result.
 Input:</br>
 Your program will receive 2 lines of input: the first line is Player 1’s choice (either rock, paper,
 or scissors), while the second line is Player 2’s choice.
-Output</br>
-Given the above input, you should output the result of the game. There are only three possible
-outcomes:<ul>
+Output:</br>
+The result of the game have three possible outcomes:<ul>
 <li>1. Player 1 wins</li>
 <li>2. Player 2 wins</li>
 <li>3. Tie      </li>
