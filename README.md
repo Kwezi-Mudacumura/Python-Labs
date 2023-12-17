@@ -91,6 +91,27 @@ Print out the minimum value of the numbers.
 
 </li>
 
+<li>
+<h3>MeanOfAnyAmountOfNumbers</h3></br>The following program that accepts many real numbers as input, and outputs their average.
+</br>
+Input</br>
+The input consists of a series of numbers, one per line. The assumption is that there will always
+be at least one number given. The end of the input is signalled by the number −1. When
+you receive a −1, your program will output the average of all numbers received. Note
+that −1 is completely ignored and thus isnt taken into consideration when
+calculating the average.
+</br>
+Output</br>
+Print out the mean of the numbers.
+
+
+
+
+
+
+  
+</li>
+
 
   
 </ul>
