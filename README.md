@@ -68,10 +68,10 @@ has played paper (“paper covers rock”); a play of paper will lose to a play 
 cuts paper”). If both players choose the same shape, the game is tied.</p>
 The following program takes as input the choices made by two players (Player 1
 and Player 2), and outputs the result.
-Input:</br>
+</br>Input:</br>
 Your program will receive 2 lines of input: the first line is Player 1’s choice (either rock, paper,
 or scissors), while the second line is Player 2’s choice.
-Output:</br>
+</br>Output:</br>
 The result of the game have three possible outcomes:<ul>
 <li>1. Player 1 wins</li>
 <li>2. Player 2 wins</li>
