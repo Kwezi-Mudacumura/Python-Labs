@@ -150,7 +150,7 @@ Outputs the median of the numbers provided as input
 </li>
 
 <li>
-<h3>MatchingMarksToNamesUsingDictionary</h3></br>The following program receives list of names and grades,then outputs the names in alphabetical order, with their associated grade.</br>
+<h3>MatchingMarksToNamesUsingDictionary</h3></br>The following program receives list of names and grades,then outputs the names in alphabetical order, with their associated grade.</br></br>
 Input:</br>
 The first line of input is an integer N. 2N lines follow, each containing a name and a mark on
 their own lines. The assumpution is that the name is a single word, and that the mark is an integer.</br>
